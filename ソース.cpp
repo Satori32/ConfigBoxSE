@@ -3,6 +3,8 @@
 #include <memory>
 #include <string>
 
+//remake the ConfigBox.
+
 template<class T>
 class ConfigBoxSE {
 public:
