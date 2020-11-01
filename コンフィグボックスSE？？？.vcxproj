@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="ソース.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="ConfigBox.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
